@@ -1,1 +1,2 @@
-learn git
+learn git.
+Git is a free software.
